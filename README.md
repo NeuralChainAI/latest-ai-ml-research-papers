@@ -10,6 +10,8 @@ This GitHub repository is a curated collection of the latest research papers in 
 
 **Multimodal Learning**
 
+---
+
 📋 [**Computer Vision**](#computer-vision)
 
 [Segment Anything Model(SAM)](https://arxiv.org/abs/2304.02643)
